@@ -1,2 +1,2 @@
 # Miesto-ribos
-Duomenis apie Kauno rajonų, seniūnijų ribas
+Duomenys apie Kauno rajonų, seniūnijų ribas
